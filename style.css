@@ -1,11 +1,11 @@
-h1{
+body{
+   background: url(../image/BG2.jpeg) no-repeat top center;
+   background-size: 450px;
+ }
+ h1{
     font-family: serif;
    font-size: 40px;
    font-style: normal;
- }
- body{
-   background: url(../image/BG2.jpeg) no-repeat top center;
-   background-size: 450px;
  }
  h2{
    font-size: 30px;
