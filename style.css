@@ -1,12 +1,12 @@
 body{
-  background: url(/Gambar/BG2.jpeg) no-repeat top center;
-  background-size: 450px;
+  background: url(../image/BG2.jpeg);
 }
  h1{
    font-family: serif;
   font-size: 40px;
   font-style: normal;
 }
+
 h2{
   font-size: 30px;
   font-family: serif;
