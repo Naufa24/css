@@ -1,0 +1,9 @@
+body {
+    background-color: aquamarine;
+    font:16px/28px arial,sans-serif;
+    color:burlywood;
+}
+.container {
+    width: 600px;
+    background-color: aqua;
+}
