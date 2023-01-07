@@ -6,6 +6,7 @@ body {
 .container {
     width: 700px;
     background-color: aqua;
+    margin: auto;
 }
 .header .judul{
 	font-size: 50px;
