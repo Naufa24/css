@@ -26,6 +26,25 @@ body {
 	background-image: url(CSS.webp);
 	background-size: cover;
 	background-position: 0 0px;
-	border-top: 3px solid green;
-	border-bottom: 3px solid green;
+	border-top: 3px solid azure;
+	border-bottom: 3px solid azure;
+}
+.content{
+	padding: 20px;
+}
+.content h2{
+	font-size: 30px;
+	font-weight: bold;
+}
+.content .h3{
+	font-size: 22px;
+	margin-top: -15px;
+}
+.content .penulis a{
+	color: salmon;
+	text-decoration: none;
+}
+.content p{
+	margin-bottom: 30px;
+	font-size: 23px;
 }
