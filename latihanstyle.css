@@ -10,7 +10,7 @@ body {
 .header .judul{
 	font-size: 50px;
 	font-weight:bold;
-
+    text-align: center;
 }
 .header ul li{
 	display: inline-block;
