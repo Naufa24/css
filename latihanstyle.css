@@ -1,7 +1,7 @@
 body {
     background-color: aquamarine;
     font:16px/28px arial,sans-serif;
-    color:burlywood;
+    color:black;
 }
 .container {
     width: 600px;
@@ -20,5 +20,4 @@ body {
 .header a{
 	text-decoration: none;
 	color:black;
-
 }
