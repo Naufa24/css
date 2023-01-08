@@ -31,22 +31,21 @@ body {
 	border-top: 3px solid azure;
 	border-bottom: 3px solid azure;
 }
-.content{
-	padding: 20px;
-}
-.content h2{
+ h2{
 	font-size: 30px;
 	font-weight: bold;
+	margin-left: 30px;
 }
-.content .h3{
+h3{
 	font-size: 22px;
 	margin-top: -15px;
+	margin-left: auto;
 }
 .content .penulis a{
 	color: salmon;
 	text-decoration: none;
 }
-.content p{
+ p{
 	margin-bottom: 30px;
 	margin-left: 20px;
 	font-size: 23px;
