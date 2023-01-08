@@ -8,7 +8,7 @@ body {
     background-color: aqua;
     margin: auto;
 }
-.header .judul{
+.header h1{
 	font-size: 50px;
 	font-weight:bold;
     text-align: center;
