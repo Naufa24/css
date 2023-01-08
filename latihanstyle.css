@@ -17,13 +17,12 @@ body {
 	display: inline-block;
 	margin-top:15px;
 	margin-right: 15px;
-	margin-left: auto;
 }
 .header a{
 	text-decoration: none;
 	color:black;
 }
-.hero {
+div{
 	height:350px;
 	background-image: url(CSS.webp);
 	background-size: cover;
