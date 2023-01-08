@@ -22,7 +22,7 @@ body {
 	text-decoration: none;
 	color:black;
 }
-div{
+.hero{
 	height:350px;
 	background-image: url(CSS.webp);
 	background-size: cover;
@@ -30,21 +30,28 @@ div{
 	border-top: 3px solid azure;
 	border-bottom: 3px solid azure;
 }
- h2{
+.content {
+	padding: 10px;
+}
+ .content h2{
 	font-size: 30px;
 	font-weight: bold;
 	margin-left: 30px;
 }
-h3{
+.content h3{
 	font-size: 22px;
 	margin-top: -15px;
 	margin-left: auto;
 }
- a{
+.content .penulis {
+	font-size: 15px;
+	margin-top: -5px;
+}
+ .content .penulis a{
 	color: salmon;
 	text-decoration: none;
 }
- p{
+ .content p{
 	margin-bottom: 30px;
 	margin-left: 20px;
 	font-size: 23px;
